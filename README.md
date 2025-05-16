@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Abhinav Meduri 👋
 
-<!--
-**abhinav-meduri/abhinav-meduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=abhinav-meduri&color=blue)
 
-Here are some ideas to get you started:
+I'm a Computer Science & Statistics student at Duke University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience
+- Software Engineer Intern @ [ecoLong](https://www.eco-long.com/)
+- Software Engineer Intern @ [Systrends](https://www.systrends.com/)
+
+## Contact
+- ✉️ abhinav.meduri@duke.edu
+- <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/abhinav-meduri/)
+
