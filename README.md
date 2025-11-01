@@ -1,6 +1,6 @@
 <small>
 
-## Hi, I'm Abhinav Meduri 👋
+## Abhinav Meduri 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=abhinav-meduri&color=blue)
 
